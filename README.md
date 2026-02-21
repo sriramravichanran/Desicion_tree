@@ -9,7 +9,7 @@ Both projects are built using Python and Scikit-learn to demonstrate supervised 
 
 ---
 
-## 📁 Project Structure  ebjgssndfjsfhgsjfjwe
+## 📁 Project Structure  ebjgssndfj
 
 Decision-Tree-Projects  
 │  
