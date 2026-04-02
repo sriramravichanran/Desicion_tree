@@ -14,7 +14,7 @@ Both projects are built using Python and Scikit-learn to demonstrate supervised 
 Decision-Tree-Projects  
 │  
 ├── decision_tree_regression.ipynb  
-├── Desicion_tree_CLassification.ipynb  
+├── Desicion_tree_CLassification.ipynb   
 └── README.md  
  
 ---
