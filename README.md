@@ -7,8 +7,8 @@ This repository contains two Machine Learning projects implemented using the Dec
  
 Both projects are built using Python and Scikit-learn to demonstrate supervised learning techniques.
 
----7
-    [
+---
+    
 ## 📁 Project Structure    
   
 Decision-Tree-Projects    
